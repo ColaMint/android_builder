@@ -1,0 +1,507 @@
+{
+  "sites": [
+    {
+      "key": "csp_NaNa",
+      "name": "👒 七七",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_NaNa\",\"name\":\"NaNa\"}"
+    },
+    {
+      "key": "csp_CZSPP",
+      "name": "🚬 厂长资源",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_CZSPP\",\"name\":\"CZSPP\"}"
+    },
+    {
+      "key": "csp_LittleApple",
+      "name": "🍎 小苹果",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_LittleApple\",\"name\":\"LittleApple\"}"
+    },
+    {
+      "key": "csp_Auete",
+      "name": "🧿 Auete",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_Auete\",\"name\":\"Auete\"}"
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "🌀 低端影视",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_DiDuan\",\"name\":\"DiDuan\"}"
+    },
+    {
+      "key": "csp_360",
+      "name": "🎾 360",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_360\",\"name\":\"SP360\"}"
+    },
+    {
+      "key": "csp_AliPanSou",
+      "name": "🐱 喵狸盘搜",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_AliPanSou\",\"name\":\"AliPanSou\",\"token\":\"https://cat.colamint.club/ali-token\"}"
+    },
+    {
+      "key": "csp_GitCafe",
+      "name": "🦊 小纸条",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_GitCafe\",\"name\":\"GitCafe\",\"token\":\"https://cat.colamint.club/ali-token\"}"
+    },
+    {
+      "key": "csp_UPYunSo",
+      "name": "☁️  UP云搜",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_UPYunSo\",\"name\":\"UPYunSo\",\"token\":\"https://cat.colamint.club/ali-token\"}"
+    },
+    {
+      "key": "csp_Concert",
+      "name": "🎤 演唱会",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_Concert\",\"name\":\"BiliBiliSearch\",\"ext\":{\"keyword\":\"演唱会\",\"default_duration\":\"4\",\"types\":[\"全部\",\"周杰伦\",\"陈奕迅\",\"Beyond\",\"刘德华\",\"郭富城\",\"张学友\",\"黎明\",\"李宗盛\",\"邓丽君\",\"朴树\",\"林子祥\",\"任贤齐\",\"张信哲\",\"孙楠\",\"张宇\",\"周华健\",\"蔡依林\",\"薛之谦\",\"洛天依\",\"初音未来\",\"许嵩\",\"戴佩妮\",\"邓紫棋\",\"张韶涵\",\"蔡健雅\",\"莫文蔚\",\"刘若英\",\"周深\",\"毛不易\",\"汪苏泷\",\"李宇春\",\"徐佳莹\",\"杨宗纬\",\"胡彦斌\",\"杨千嬅\",\"张靓颖\",\"李荣浩\",\"杨丞琳\",\"林志炫\",\"陶喆\",\"胡夏\",\"李玉刚\",\"弦子\",\"陈小春\",\"萧亚轩\",\"鹿晗\",\"纵贯线\",\"许巍\",\"林俊杰\",\"赵雷\",\"谭咏麟\",\"凤凰传奇\",\"容祖儿\",\"周传雄\",\"SHE\",\"苏打绿\",\"五月天\",\"张国荣\",\"梅艳芳\",\"孙燕姿\",\"李健\",\"华晨宇\",\"袁娅维\",\"大张伟\",\"TFBOYS\",\"王俊凯\",\"易烊千玺\",\"王源\",\"田馥甄\",\"小虎队\",\"张杰\",\"王菲\",\"伍佰\",\"刀郎\",\"草蜢\",\"潘玮柏\",\"梁静茹\",\"林宥嘉\",\"蔡徐坤\",\"周慧敏\",\"李圣杰\",\"张惠妹\",\"萧敬腾\",\"周笔畅\",\"焦迈奇\",\"尤长靖\",\"郑中基\",\"谭维维\",\"陈慧娴\",\"张艺兴\",\"王嘉尔\",\"刘宪华\",\"张敬轩\",\"李克勤\",\"阿杜\",\"郭静\",\"崔健\",\"庾澄庆\",\"汪峰\",\"那英\",\"杨坤\",\"叶倩文\",\"王心凌\",\"张震岳\",\"韩红\",\"齐秦\",\"张雨生\",\"黄品源\",\"林忆莲\",\"丁当\",\"郑智化\",\"李玟\",\"谢霆锋\",\"黄小琥\",\"徐小凤\",\"任嘉伦\",\"卓依婷\",\"逃跑计划\",\"青鸟飞鱼\",\"飞儿乐队\",\"花儿乐队\",\"南拳妈妈\",\"水木年华\",\"动力火车\",\"筷子兄弟\",\"鹿先森乐队\",\"信乐队\",\"旅行团乐队\",\"By2\",\"郁可唯\",\"宋亚森\",\"费玉清\",\"费翔\",\"金志文\",\"黄家强\",\"方大同\",\"吴克群\",\"罗大佑\",\"光良\",\"田震\",\"凤飞飞\",\"谭晶\",\"王杰\",\"羽泉\",\"金池\",\"屠洪刚\",\"戴荃\",\"郭采洁\",\"罗志祥\",\"王力宏\",\"林肯公园\",\"迈克尔杰克逊\",\"泰勒·斯威夫特\",\"林肯公园\",\"阿黛尔\",\"BIGBANG\",\"Lady Gaga\",\"贾斯丁比伯\",\"中岛美雪\",\"仓木麻衣\",\"后街男孩\",\"布兰妮\",\"夜愿乐队\"]}}"
+    },
+    {
+      "key": "csp_Sketch",
+      "name": "👫🏻 小品",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_Sketch\",\"name\":\"BiliBiliSearch\",\"ext\":{\"keyword\":\"小品\",\"default_duration\":\"0\",\"types\":[\"全部\",\"赵本山\",\"沈腾\",\"马丽\",\"小沈阳\",\"贾玲\",\"张小斐\",\"宋丹丹\",\"牛莉\",\"冯巩\",\"林永健\",\"范伟\",\"潘长江\",\"陈佩斯\",\"沈春阳\",\"蔡明\",\"马丽娟\",\"郭达\",\"买红妹\",\"黄宏\",\"朱时茂\",\"赵丽蓉\",\"严顺开\",\"高秀敏\",\"巩汉林\",\"牛群\",\"孙涛\",\"宋小宝\",\"艾伦\",\"常远\",\"贾冰\"]}}"
+    },
+    {
+      "key": "csp_CrossTalk",
+      "name": "👬🏻 相声",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_CrossTalk\",\"name\":\"BiliBiliSearch\",\"ext\":{\"keyword\":\"相声\",\"default_duration\":\"0\",\"types\":[\"全部\",\"郭德纲\",\"叶敬林\",\"郭麒麟\",\"岳云鹏\",\"于谦\",\"冯巩\",\"曹云金\",\"张云雷\",\"王迅\",\"侯耀文\",\"朱云峰\",\"王自健\",\"秦霄贤\",\"马季\",\"孙越\",\"侯宝林\",\"李菁\",\"马三立\"]}}"
+    },
+    {
+      "key": "csp_Animal",
+      "name": "🐘 动物世界",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_Animal\",\"name\":\"BiliBiliSearch\",\"ext\":{\"keyword\":\"动物世界\",\"default_duration\":\"4\",\"types\":[]}}"
+    },
+    {
+      "key": "csp_LiYuanXing",
+      "name": "🍐 梨园行",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_LiYuanXing\",\"name\":\"LiYuanXing\"}"
+    },
+    {
+      "key": "csp_Opera",
+      "name": "🏮 戏曲",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "{\"key\":\"csp_Opera\",\"name\":\"BiliBiliSearch\",\"ext\":{\"keyword\":\"戏曲\",\"default_duration\":\"4\",\"types\":[\"京剧\",\"越剧\",\"黄梅戏\",\"评剧\",\"豫剧\",\"昆曲\",\"高腔\",\"梆子腔\",\"河北梆子\",\"晋剧\",\"蒲剧\",\"雁剧\",\"上党梆子\",\"秦腔\",\"武安平调\",\"二人台\",\"吉剧\",\"龙江剧\",\"越调\",\"河南曲剧\",\"山东梆子\",\"淮剧\",\"沪剧\",\"滑稽戏\",\"婺剧\",\"绍剧\",\"徽剧\",\"闽剧\",\"莆仙戏\",\"梨园戏\",\"高甲戏\",\"赣剧\",\"采茶戏\",\"汉剧\",\"湘剧\",\"祁剧\",\"湖南花鼓戏\",\"粤剧\",\"潮剧\",\"桂剧\",\"彩调\",\"壮剧\",\"川剧\",\"黔剧\",\"滇剧\",\"傣剧\",\"藏剧\",\"皮影戏\"]}}"
+    },
+    {
+      "key": "csp_FakeWindow",
+      "name": "🖼️  假窗·白噪音",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_FakeWindow\",\"name\":\"BiliBiliSearch\",\"ext\":{\"keyword\":\"窗 白噪音\",\"default_duration\":\"4\",\"types\":[]}}"
+    },
+    {
+      "key": "csp_BLive",
+      "name": "🪁 B站直播",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_BLive\",\"name\":\"BLive\",\"ext\":{\"roomids\": [10375360]}}"
+    },
+    {
+      "key": "csp_DouYu",
+      "name": "🦈 斗鱼直播",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_DouYu\",\"name\":\"DouYu\",\"ext\":{}}"
+    },
+    {
+      "key": "csp_QQLive",
+      "name": "🐧 企鹅直播",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_QQLive\",\"name\":\"QQLive\",\"ext\":{}}"
+    },
+    {
+      "key": "csp_ChaoShan",
+      "name": "🧲 潮汕集合",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_ChaoShan\",\"name\":\"ChaoShan\"}"
+    },
+    {
+      "key": "csp_BiliBiliUploader",
+      "name": "🧝 B站UP主",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_FakeWindow\",\"name\":\"BiliBiliUploader\",\"ext\":{\"uploaders\":[{\"id\":\"946974\",\"name\":\"影视飓风\"}]}}"
+    },
+    {
+      "key": "csp_Live",
+      "name": "📺 设置直播为首页",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_Live\",\"name\":\"Live\"}"
+    },
+    {
+      "key": "push_agent",
+      "name": "🍭 推送",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{\"key\":\"push_agent\",\"name\":\"PushAgent\",\"token\":\"https://cat.colamint.club/ali-token\"}"
+    }
+  ],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [{ "name": "redirect", "urls": ["proxy://do=sxtv"] }]
+    }
+  ],
+  "parses": [
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "可遇不可求",
+      "type": 1,
+      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": { "User-Agent": "okhttp/4.1.0" }
+      }
+    },
+    {
+      "name": "bozrc",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": { "User-Agent": "" }
+      }
+    },
+    {
+      "name": "rx2",
+      "type": 1,
+      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+    },
+    {
+      "name": "懒懒1",
+      "type": 1,
+      "url": "http://123.57.56.94:9931/lanlan/?url="
+    },
+    {
+      "name": "懒懒2",
+      "type": 1,
+      "url": "http://lanlan.ckflv.cn/?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "qq",
+          "letv",
+          "sohu",
+          "youku",
+          "mgtv",
+          "bilibili",
+          "wasu",
+          "xigua",
+          "1905"
+        ]
+      }
+    }
+  ],
+  "flags": [],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [],
+  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  "spider": "https://cat.colamint.club/d/local/b;md5;2e1005db62224a17212a79a7b6cac44c"
+}
