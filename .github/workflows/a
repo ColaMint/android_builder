@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "{\"key\":\"csp_AliPanSou\",\"name\":\"AliPanSou\",\"token\":\"https://cat.colamint.club/ali-token\"}"
+      "ext": "{\"key\":\"csp_AliPanSou\",\"name\":\"AliPanSou\",\"token\":\"http://81.68.89.191:16888/json/token.php\"}"
     },
     {
       "key": "csp_GitCafe",
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "{\"key\":\"csp_GitCafe\",\"name\":\"GitCafe\",\"token\":\"https://cat.colamint.club/ali-token\"}"
+      "ext": "{\"key\":\"csp_GitCafe\",\"name\":\"GitCafe\",\"token\":\"http://81.68.89.191:16888/json/token.php\"}"
     },
     {
       "key": "csp_UPYunSo",
@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "{\"key\":\"csp_UPYunSo\",\"name\":\"UPYunSo\",\"token\":\"https://cat.colamint.club/ali-token\"}"
+      "ext": "{\"key\":\"csp_UPYunSo\",\"name\":\"UPYunSo\",\"token\":\"http://81.68.89.191:16888/json/token.php\"}"
     },
     {
       "key": "csp_Concert",
@@ -228,7 +228,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "{\"key\":\"push_agent\",\"name\":\"PushAgent\",\"token\":\"https://cat.colamint.club/ali-token\"}"
+      "ext": "{\"key\":\"push_agent\",\"name\":\"PushAgent\",\"token\":\"http://81.68.89.191:16888/json/token.php\"}"
     }
   ],
   "lives": [
