@@ -81,6 +81,16 @@
       "ext": "{\"key\":\"csp_GitCafe\",\"name\":\"GitCafe\",\"token\":\"http://81.68.89.191:16888/json/token.txt\"}"
     },
     {
+      "key": "csp_WoGG",
+      "name": "🐼 玩偶哥哥",
+      "type": 3,
+      "api": "csp_ColaCat",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"key\":\"csp_WoGG\",\"name\":\"WoGG\",\"token\":\"http://81.68.89.191:16888/json/token.txt\"}"
+    },
+    {
       "key": "csp_UPYunSo",
       "name": "☁️  UP云搜",
       "type": 3,
@@ -503,5 +513,5 @@
   ],
   "ads": [],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://cat.colamint.club/d/local/b;md5;006782ca2ad2f7f5a730c8d466f9a8d4"
+  "spider": "https://cat.colamint.club/d/local/b;md5;64461841ea6f83c061afc4226205a3a9"
 }
